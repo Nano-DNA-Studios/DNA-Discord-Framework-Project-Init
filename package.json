@@ -1,5 +1,5 @@
 {
-  "name": "dna-discord-framework-project-init",
+  "name": "create-dna-discord-bot",
   "version": "1.0.0",
   "description": "A NPM Package that holds a command to create a new Typescript project for DNA-Discord-Framework development",
   "main": "index.js",
