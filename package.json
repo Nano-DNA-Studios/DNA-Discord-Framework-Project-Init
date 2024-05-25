@@ -1,0 +1,25 @@
+{
+  "name": "dna-discord-framework-project-init",
+  "version": "1.0.0",
+  "description": "A NPM Package that holds a command to create a new Typescript project for DNA-Discord-Framework development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "MrDNAlex",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.12.12",
+    "typescript": "^5.4.5"
+  },
+  "bin": {
+    "create-discord-bot": "./index.js"
+  },
+  "dependencies": {
+    "dna-discord-framework": "^1.0.61",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.2.0"
+  }
+}
