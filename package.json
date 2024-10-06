@@ -1,11 +1,12 @@
 {
   "name": "create-dna-discord-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NPM Package that holds a command to create a new Typescript project for DNA-Discord-Framework development",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc"
+    "build": "tsc",
+    "npmpublish": "npm run build && npm publish"
   },
   "author": "MrDNAlex",
   "license": "ISC",

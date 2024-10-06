@@ -119,7 +119,7 @@ function PackageJSONText(projectName) {
 "version": "1.0.0",
 "main": "./index.js",
 "dependencies": {
-    "dna-discord-framework": "^1.0.61",
+    "dna-discord-framework": "^1.0.98",
     "tslint": "^6.1.3",
     "typescript": "^5.4.5"
 },
